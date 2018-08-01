@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test model",
+    "owner": "Vivek",
+    "description": "Threat modeling for Hitstar web application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Vivek"
+  }
+}
