@@ -5,7 +5,11 @@
     "description": "Threat modeling for Hitstar web application"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Vivek"
+      }
+    ],
     "diagrams": [
       {
         "title": "High Level diagram",
